@@ -1,2 +1,2 @@
 4주차정리
-git pull =
+git pull = 서버를 로컬로 동기화
